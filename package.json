@@ -1,0 +1,19 @@
+{
+  "name": "techscan",
+  "version": "1.0.0",
+  "description": "this project is to accomplish understanding of full stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TipingSchool/PreCanned7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TipingSchool/PreCanned7/issues"
+  },
+  "homepage": "https://github.com/TipingSchool/PreCanned7#readme"
+}
